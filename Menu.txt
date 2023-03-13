@@ -1,0 +1,19 @@
+=> Lutfen Pizzanizi Seciniz:
+1: Klasik Pizza --> 75
+2: Margarita Pizza --> 60
+3: Turk Pizza --> 80
+4: Pepperoni Pizza --> 75
+5: Gurme Pizza --> 125
+6: Sade Pizza --> 55
+=> Secmek istediginiz ekstra malzemeler:
+11: Zeytin --> 1.25
+12: Mantar --> 3.00
+13: Kasar --> 3.50
+14: Keci Peyniri --> 3.50
+15: Sogan --> 3.25
+16: Misir --> 2.75
+17: Pastirma --> 7.50
+18: Et --> 7.75
+19: Jambon --> 5.25
+20: Baharat --> 0.50
+=> Seciminiz icin tesekkur ederiz!
